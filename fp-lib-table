@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Buck regulator")(type KiCad)(uri C:/Users/Ple/Desktop/lib101/footprints.pretty)(options "")(descr ""))
+  (lib (name Shottky)(type KiCad)(uri C:/Users/Ple/Desktop/Shottkey/footprints.pretty)(options "")(descr ""))
+  (lib (name Inductor)(type KiCad)(uri C:/Users/Ple/Desktop/Inductor/footprints.pretty)(options "")(descr ""))
+  (lib (name Capacitor)(type KiCad)(uri "C:/Users/Ple/Desktop/Ceramic C/footprint.pretty")(options "")(descr "SMT Ceramic Capacitor"))
+)
