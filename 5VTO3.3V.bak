@@ -1,0 +1,73 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TPS64202DBVT:TPS64202DBVT IC?
+U 1 1 62A0FA56
+P 5000 3650
+F 0 "IC?" H 5600 3950 50  0000 C CNN
+F 1 "TPS64202DBVT" H 5600 3850 50  0000 C CNN
+F 2 "SOT95P280X145-6N" H 6050 3750 50  0001 L CNN
+F 3 "http://www.ti.com/lit/gpn/tps64202" H 6050 3650 50  0001 L CNN
+F 4 "Texas Instruments TPS64202DBVT, DC-DC Controller, 6.5 V Step-Down, 6-Pin, SOT-23" H 6050 3550 50  0001 L CNN "Description"
+F 5 "1.45" H 6050 3450 50  0001 L CNN "Height"
+F 6 "Texas Instruments" H 6050 3350 50  0001 L CNN "Manufacturer_Name"
+F 7 "TPS64202DBVT" H 6050 3250 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "595-TPS64202DBVT" H 6050 3150 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS64202DBVT?qs=Gse6rAGbi7%2FcL174j6ShEQ%3D%3D" H 6050 3050 50  0001 L CNN "Mouser Price/Stock"
+F 10 "TPS64202DBVT" H 6050 2950 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/tps64202dbvt/texas-instruments" H 6050 2850 50  0001 L CNN "Arrow Price/Stock"
+	1    5000 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ZHCS2000TA:ZHCS2000TA D?
+U 1 1 62A0FC09
+P 4400 5800
+F 0 "D?" H 4900 6100 50  0000 C CNN
+F 1 "ZHCS2000TA" H 4900 6000 50  0000 C CNN
+F 2 "SOT95P285X140-6N" H 5250 5900 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/ZHCS2000TA.pdf" H 5250 5800 50  0001 L CNN
+F 4 "Schottky diode 2A 40V SOT23, ZHCS2000TA Diodes Inc ZHCS2000TA, SMT Schottky Diode, 40V 2A, 5.5ns, 6-Pin SOT-23" H 5250 5700 50  0001 L CNN "Description"
+F 5 "1.4" H 5250 5600 50  0001 L CNN "Height"
+F 6 "Diodes Inc." H 5250 5500 50  0001 L CNN "Manufacturer_Name"
+F 7 "ZHCS2000TA" H 5250 5400 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "522-ZHCS2000TA" H 5250 5300 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZHCS2000TA?qs=GBLSl2AkirsJHGx2WUpaMg%3D%3D" H 5250 5200 50  0001 L CNN "Mouser Price/Stock"
+F 10 "ZHCS2000TA" H 5250 5100 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/zhcs2000ta/diodes-incorporated" H 5250 5000 50  0001 L CNN "Arrow Price/Stock"
+	1    4400 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SI2323DS:SI2323DS-T1-E3 IC?
+U 1 1 62A0FD58
+P 7000 4650
+F 0 "IC?" H 7400 4950 50  0000 C CNN
+F 1 "SI2323DS-T1-E3" H 7400 4850 50  0000 C CNN
+F 2 "SOT95P237X112-3N" H 7650 4750 50  0001 L CNN
+F 3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1580060.pdf" H 7650 4650 50  0001 L CNN
+F 4 "SI2323DS-T1-E3, P-channel MOSFET Transistor 3.7 A 20 V, 3-Pin SOT-23, TO-236" H 7650 4550 50  0001 L CNN "Description"
+F 5 "1.12" H 7650 4450 50  0001 L CNN "Height"
+F 6 "Vishay" H 7650 4350 50  0001 L CNN "Manufacturer_Name"
+F 7 "SI2323DS-T1-E3" H 7650 4250 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "781-SI2323DS-T1-E3" H 7650 4150 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2323DS-T1-E3?qs=jcx%252B0HVgj2Z84VwYjVEhjA%3D%3D" H 7650 4050 50  0001 L CNN "Mouser Price/Stock"
+F 10 "SI2323DS-T1-E3" H 7650 3950 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/si2323ds-t1-e3/vishay?region=nac" H 7650 3850 50  0001 L CNN "Arrow Price/Stock"
+	1    7000 4650
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
